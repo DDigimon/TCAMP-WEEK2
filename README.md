@@ -27,7 +27,7 @@ DL-naive
 2 "Dear @CAPS1 @CAPS2, I have heard ……”
 
 ## 实验结果
-
+![image text](https://github.com/DDigimon/TCAMP-WEEK2/blob/master/%E4%BC%A0%E7%BB%9F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/233.png)
 
 # 2 特征提取
 ## 2.1 Length Features
