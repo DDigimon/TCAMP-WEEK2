@@ -3,6 +3,8 @@
 DL-naive
 第二周内容
 自动评分
+第一周是句子相似度计算，代码地址：
+https://github.com/qiangzi11hao/Semantic-Textual-Similarity
 
 # 1. Data
 这次数据集提供围绕特定主题的英语文章文本数据，可用于针对学生所写的英文作文进行机器自动评分。
