@@ -26,10 +26,13 @@ DL-naive
 
 2 "Dear @CAPS1 @CAPS2, I have heard ……”
 
+## 实验结果
+
+
 # 2 特征提取
 ## 2.1 Length Features
 首先我们先统计字符数、句子数以及平均句子长度。以下不做特殊说明，大家可以把每个函数中的content当作是我们training set中的单个essay!
-## 1.2 Occurrence Features
+## 2.2 Occurrence Features
 统计每个essay中的标点、stopwords、错词以及SAT词汇出现的次数。这里SAT词汇来自是将雅思官网5000词汇down下来后，存到了本地了txt文件中，然后通过定义的get_sat_word 函数进行提取。
 ## 2.3 word ngrams Features
 首先，我们统计了word ngrams（n=1,2,3）,通过使用python中的set函数，我们可以去将grams中重复的部分去掉，
